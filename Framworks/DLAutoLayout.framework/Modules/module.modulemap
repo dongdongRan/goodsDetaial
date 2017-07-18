@@ -1,0 +1,6 @@
+framework module DLAutoLayout {
+  umbrella header "DLAutoLayout.h"
+
+  export *
+  module * { export * }
+}
